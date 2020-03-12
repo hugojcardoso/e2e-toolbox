@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/hugojcardoso/e2e-toolbox"
+  },
   "keywords": ["testcafe","cypressIO","Protractor","E2E"],
   "author": "Hugo Cardoso",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs":{
+    "url": "https://github.com/hugojcardoso/e2e-toolbox/issues"
+  },
+  "homepage":"https://github.com/hugojcardoso/e2e-toolbox#readme"
 }
