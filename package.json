@@ -1,0 +1,12 @@
+{
+  "name": "e2e-toolbox",
+  "version": "0.0.1",
+  "description": "Package to help creating the scafolding of E2E tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["testcafe","cypressIO","Protractor","E2E"],
+  "author": "Hugo Cardoso",
+  "license": "MIT"
+}
